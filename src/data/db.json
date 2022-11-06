@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "name": "belajar",
+      "kegiatan": "belanjar membuat crud menggunakan react",
+      "id": "Bb4MuzO"
+    },
+    {
+      "name": "belajar",
+      "kegiatan": "belajar mengkomsumsi API",
+      "id": "hnp3mHq"
+    },
+    {
+      "name": "kerja",
+      "kegiatan": "perbaiki crud pada web to do list",
+      "id": "XOXaAl3"
+    },
+    {
+      "name": "cv",
+      "kegiatan": "perbaiki cv yang sudah ada",
+      "id": "HUn1kTf"
+    }
+  ]
+}
